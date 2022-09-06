@@ -13,7 +13,7 @@ function About() {
         </div>
         <div className='about__content'>
           <p >
-           I've been doing frontend development for over a year.
+            I do front-end development.
             I like to develop and learn something new. And this is the main reason why I chose the IT field.
             There is no limit to development in IT.
             </p> 
